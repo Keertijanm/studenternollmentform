@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title></title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>STUDENT ENROLLMENT FORM</h1>
+    <div id="containerInput">
+
+        <div class="divIn">
+            <label class="labels">Name :</label>
+            <input class="input" id="inputName" type="text">
+        </div>
+        <div class="divIn">
+            <label class="labels">Email :</label>
+            <input class="input" id="inputEmail" type="text">
+        </div>
+        <div class="divIn">
+            <label class="labels">Website</label>
+            <input class="input" id="inputWebsite" type="text">
+        </div>
+        <div class="divIn">
+            <label class="labels">Gender</label>
+            <input class="inrad" type="radio" id="radMale"><label for="radMale">Male</label>
+            <input class="inrad" type="radio" id="radFemale"><label for="radFemale">Female</label>
+        </div>
+        <div class="divIn">
+            <label class="labels">Skills</label>
+            <input class="inchk" type="checkbox" id="chkHTML"><label for="chkHTML">HTML</label>
+            <input class="inchk" type="checkbox" id="chkCSS"><label for="chkCSS">CSS</label>
+            <input class="inchk" type="checkbox" id="chkJavascript"><label for="chkJavascript">Javascript</label>
+        </div>
+        <br>
+        <button id="btnSubmit" class="btns">Ernoll Student</button>
+        <button id="btnReset" class="btns">Clear</button>
+    </div>
+
+    <h2>ENROLLED STUDENT</h2>
+
+    <div id="containerOutput">
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

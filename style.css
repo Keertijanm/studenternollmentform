@@ -1,0 +1,117 @@
+h1 {
+    text-align: center;
+    color: #451023;
+    background-color: aquamarine;
+    font-weight: bolder;
+}
+
+h2 {
+    text-align: center;
+    color: #291045;
+
+    font-weight: bolder;
+}
+
+body {
+    background-color: orangered;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    color: rgba(58, 6, 86, 0.864);
+    font-weight: bold;
+}
+
+#containerInput {
+    height: 500px;
+    width: 40%;
+    padding: 10px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #FFFFFF;
+    float: left;
+    background-color: rgb(255, 234, 0);
+}
+
+#containerOutput {
+    background-color: aqua;
+    height: 450px;
+    width: 40%;
+    padding: 10px;
+    margin-right: 10%;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #f2ff00;
+    float: right;
+    overflow-y: scroll;
+}
+
+.divIn {
+    width: 400px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.labels {
+    float: left;
+    color: rgb(21, 21, 196);
+    font-weight: bold;
+}
+
+.input {
+    margin-left: 20px;
+    width: 60%;
+}
+
+.inrad {
+    margin-left: 25px;
+}
+
+.inchk {
+    margin-left: 20px;
+}
+
+.btns {
+    height: 30px;
+    width: 100px;
+    margin-top: 30px;
+    margin-left: 50px;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    font-weight: 400;
+    border-color: blueviolet;
+}
+
+#btnSubmit:hover {
+    color: #FFFFFF;
+    background-color: rgb(57, 192, 246);
+}
+
+#btnReset:hover {
+    color: #FFFFFF;
+    background-color: #ff0000;
+}
+
+.name {
+    font-size: 30px;
+    font-weight: 400;
+    color: rgb(189, 7, 89);
+}
+
+.others {
+    font-size: 20px;
+
+}
+
+hr {
+    border-color: #a14fff;
+    background-color: #882af4;
+    color: #773cd5;
+
+    height: 4px;
+    ;
+}
