@@ -1,2 +1,14 @@
 # studenternollmentform
 Task-3 create a Registration Form whose data display in same page (LetsGrowMore)
+
+This project  created with [ reactJs ](https://studenternollmentform.vercel.app/).
+
+## My Task-2 Create an web Application to fetch user data
+
+### Deployment
+
+You can see  it's Deployment here: [https://studenternollmentform.vercel.app/](https://studenternollmentform.vercel.app/)
+
+
+![image](https://github.com/Keertijanm/studenternollmentform/blob/main/task3out1.JPG)
+![image](https://github.com/Keertijanm/studenternollmentform/blob/main/task3out2.JPG)
